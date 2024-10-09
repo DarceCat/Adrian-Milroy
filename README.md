@@ -1,1 +1,1 @@
-Titanic cleaned dataset.  891 Entries, 8 different parameters.
+Various project to practice Data analysis techiniques
